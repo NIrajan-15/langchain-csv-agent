@@ -54,7 +54,7 @@ python main.py "path/to/your/data.csv"
 Follow the prompts to ask questions about your data:
 
 ```plaintext
-✅ CSV Agent is ready to query 'your_data.csv'.
+   CSV Agent is ready to query 'your_data.csv'.
    Type 'exit' or press Ctrl+C to quit.
 
 > What is the average price for laptops?

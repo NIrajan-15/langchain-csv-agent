@@ -1,5 +1,5 @@
 # prompt.py
-"""Defines the prompt template for the CSV query chain."""
+"""Defines the required prompt template for the CSV query chain."""
 
 from langchain_core.prompts.prompt import PromptTemplate
 

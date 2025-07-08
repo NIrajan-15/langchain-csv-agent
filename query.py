@@ -1,5 +1,5 @@
 # query.py
-"""Contains the factory function for creating the self-contained CSV runner chain."""
+"""Contains the function for creating the self-contained CSV runner chain."""
 
 from __future__ import annotations
 from operator import itemgetter

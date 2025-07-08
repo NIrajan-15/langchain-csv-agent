@@ -5,7 +5,7 @@ from langchain_openai import ChatOpenAI
 from query import create_csv_runner # Make sure your file is named chain.py
 
 def main():
-    """Demonstrates how to use the self-contained CSV runner chain."""
+    """Demonstrates how to use the self-contained CSV runner."""
     load_dotenv()
 
     # 1. Set up the command-line argument parser
